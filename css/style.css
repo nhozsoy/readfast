@@ -1,0 +1,47 @@
+body {
+    background: #313E50;
+}
+
+#topFirstText {
+    font-size: 40px;
+}
+
+#topSecondText {
+    font-size: 18px;
+}
+
+#contentInput {
+    border-radius: 10px;
+    margin-top: 15px;
+    padding-top: 15px;
+    margin-bottom: 15px;
+}
+
+#speedSelectionText {
+    margin-right: 10px;
+}
+
+.radio-inline {
+    margin-right: 10px;
+}
+
+.radioInput {
+    margin-right: 10px;
+}
+
+#startButton {
+    margin-left: 10px;
+    width: 80px;
+}
+
+#wordsModal {
+    margin-top:150px;
+  }
+
+.modal-body {
+    text-align: center;
+}
+
+#modalText {
+    font-size: 28px;
+}
